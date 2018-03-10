@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating an XML Tree using LINQ to XML-->
+<SteelMembers>
+  <SteelMember Id="101">
+    <Profile>W12X10</Profile>
+    <Primer>Red</Primer>
+    <Length>120.68</Length>
+  </SteelMember>
+  <SteelMember Id="102">
+    <Profile>L5X5X3/8</Profile>
+    <Primer>Grey</Primer>
+    <Length>206.75</Length>
+  </SteelMember>
+  <SteelMember Id="103">
+    <Profile>C10X15.3</Profile>
+    <Primer>Red</Primer>
+    <Length>72.88</Length>
+  </SteelMember>
+  <SteelMember Id="104">
+    <Profile>W12X18</Profile>
+    <Primer>Black</Primer>
+    <Length>468.38</Length>
+  </SteelMember>
+</SteelMembers>
